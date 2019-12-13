@@ -53,7 +53,9 @@ h1 {
 
 
 
-
+.hidden {
+    visibility: hidden;
+}
 
 
 
